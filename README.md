@@ -1,7 +1,11 @@
 # BASIC OPERATIONS
+
 Simple operation for dataset collections
-#Rename
+
+# Rename
+
 Command for Rename
-'''
+
+```
 python rename.py
-'''
+```
