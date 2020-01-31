@@ -1,4 +1,5 @@
-# BASIC OPERATIONS
+
+# BASIC OPERATIONS FOR RENAME AND CROP
 
 Simple operation for dataset collections
 
