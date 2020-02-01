@@ -2,9 +2,12 @@ import cv2
 import numpy as np
 
 if __name__ == '__main__' :
-
+    
+    #image file path
+    image="image.jpeg"
+    
     # Read image
-    im = cv2.imread("image.jpeg")
+    im = cv2.imread(image)
 
     # Select ROI
     r = cv2.selectROI(im)
